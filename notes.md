@@ -7,3 +7,8 @@
     
     - "A `class` is a user-defined data type in object-oriented programming (OOP). It can be thought of as a blueprint for creating objects
     - All data types are built-in classes in Python.
+
+- **Object:**
+
+    - An object is an instance of a class.
+    - **Everything in Python is an object.** 
