@@ -12,3 +12,4 @@
 
     - An object is an instance of a class.
     - **Everything in Python is an object.** 
+    - Python provides **object literals** (`[]` for lists, `{}` for dictionaries, `""` for strings) for built-in data types.
